@@ -45,12 +45,12 @@ USO:
              Decryptando senhas base64 do arquivo b64output.txt
                  A saida fica salva em rawdecb64.txt
 
-12345678
-senha123
-vvvvv@123
-minhasenha
-semsenha
-87654321
-11111111
-00000000
-aaaaaaaa
+# 12345678
+# senha123
+# vvvvv@123
+# minhasenha
+# semsenha
+# 87654321
+# 11111111
+# 00000000
+# aaaaaaaa
